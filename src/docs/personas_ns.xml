@@ -1,0 +1,26 @@
+<personas xmlns="http://www.personas.com" xmlns:a="http://www.personas.com/active">
+    <a:persona id="1">
+        <nombre>Lucas</nombre>
+        <dni>12345678A</dni>
+        <edad>23</edad>
+        <salario>25000.33</salario>
+    </a:persona>
+    <persona id="2" borrado="true">
+        <nombre>Juana</nombre>
+        <dni>12345678B</dni>
+        <edad>72</edad>
+        <salario>1000.42</salario>
+    </persona>
+    <a:persona id="3">
+        <nombre>Eva</nombre>
+        <dni>12345678C</dni>
+        <edad>54</edad>
+        <salario>40000.33</salario>
+    </a:persona>
+    <persona id="4">
+        <nombre>Unai</nombre>
+        <dni>12345678D</dni>
+        <edad>99</edad>
+        <salario>900.42</salario>
+    </persona>
+</personas>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personas xmlns:a="http://www.personas.com">
+    <a:persona borrado="false" id="1">
+        <nombre>Lucas</nombre>
+        <nombre>12345678A</nombre>
+        <api>23</api>
+        <numero>25000.33</numero>
+    </a:persona>
+    <persona borrado="false" id="2">
+        <nombre>Juana</nombre>
+        <nombre>12345678B</nombre>
+        <api>72</api>
+        <numero>1000.42</numero>
+    </persona>
+    <a:persona borrado="false" id="3">
+        <nombre>Eva</nombre>
+        <nombre>12345678C</nombre>
+        <api>54</api>
+        <numero>40000.33</numero>
+    </a:persona>
+    <persona borrado="false" id="4">
+        <nombre>Unai</nombre>
+        <nombre>12345678D</nombre>
+        <api>99</api>
+        <numero>900.42</numero>
+    </persona>
+</personas>
